@@ -55,17 +55,14 @@
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImNatHarvey&theme=cobalt&show_icons=true&count_private=true" />
-  <br><br>
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ImNatHarvey&theme=dark&hide_border=true&no-bg=true&no-frame=true&layout=compact&langs_count=10"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImNatHarvey&theme=cobalt&show_icons=true&count_private=true" />
+  <br><br>
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ImNatHarvey&theme=dark&hide_border=true&no-bg=true&no-frame=true&layout=compact&langs_count=10"/>
   
 </td>
 
 <td width="50%" align="center">
-
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ImNatHarvey&theme=dark&hide_border=true" />
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ImNatHarvey&theme=dark&hide_border=true" />
 
 </td>
 </tr>
@@ -73,3 +70,6 @@
 
 <br>
 
+<div align="center">
+  <img alt="github contribution grid snake animation" src="https://github.com/ImNatHarvey/ImNatHarvey/blob/output/github-snake-dark.svg" />
+</div>
