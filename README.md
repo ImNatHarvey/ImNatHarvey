@@ -4,9 +4,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🎓 &nbsp; **BSIT Student** focusing on **modern web development** and **enterprise application architecture**.
-- 💡 &nbsp; Exploring the synergy between **Spring Boot** microservices and **Docker** containerization.
-- 🌱 &nbsp; Currently building responsive UIs using **JavaScript** and **Bootstrap**.
+- 🎓 &nbsp; **BSIT Student**
 
 <br>
 
