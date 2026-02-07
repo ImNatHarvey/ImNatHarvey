@@ -71,6 +71,7 @@ An interactive Java application that combines strategic word-puzzle combat with 
          <img src="https://img.shields.io/badge/H2_Database-003B57?style=for-the-badge&logo=h2&logoColor=white" height="25">&nbsp;&nbsp; 
          <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="25">&nbsp;&nbsp; 
          <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="25"> </p>
+         <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="25">
 
 <h3>Tools & DevOps</h3> 
       <p> 
@@ -89,9 +90,9 @@ An interactive Java application that combines strategic word-puzzle combat with 
   <br>
 
   <h3>IDEs</h3>
-  <p>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Spring_Tool_Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="25">
+      <p>
+          <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25">&nbsp;&nbsp;
+          <img src="https://img.shields.io/badge/Spring_Tool_Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="25">
   </p>
 
 </div>
