@@ -30,6 +30,25 @@ A comprehensive web application designed to streamline business operations for a
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="20">
 </p>
 
+### 🎮 [Battle Hangpies: Integrated Gaming & Marketplace](https://github.com/ImNatHarvey/java-battle-hangpies)
+> *A retro-inspired RPG battle engine with a modular marketplace system.*
+
+An interactive Java application that combines strategic word-puzzle combat with an enterprise-style architecture. Players collect "Hangpies," level them up through tactical battles, and participate in a simulated economy.
+
+* **Tech Stack:** Java (AWT/Swing), OOP Design Patterns, File-based Persistence, Git.
+* **Key Features:**
+    * ⚔️ **Battle Arena:** Dynamic combat system featuring custom-drawn sprites, frame-by-frame animations (Idle, Attack, Damage, Death), and real-time screen-shake/visual effects.
+    * 🧩 **Word-Puzzle Combat:** A "Hangman" inspired mechanic where correct guesses trigger character attacks and incorrect guesses result in enemy retaliation.
+    * 💎 **Progression & Rewards:** Leveling system with stat growth (HP/ATK), EXP scaling, and World Level caps to regulate difficulty.
+    * 🏪 **Integrated Marketplace:** A robust backend architecture (Managers/Controllers) allowing users to buy, sell, and manage their pet inventory using in-game gold.
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="20">&nbsp;
+  <img src="https://img.shields.io/badge/Swing-blue?style=for-the-badge" height="20">&nbsp;
+  <img src="https://img.shields.io/badge/OOP-Architecture-red?style=for-the-badge" height="20">&nbsp;
+  <img src="https://img.shields.io/badge/Game_Design-purple?style=for-the-badge" height="20">
+</p>
+
 <br>
 
 ---
