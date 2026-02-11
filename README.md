@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-## I'm Harvey Crisologo.
+## I'm Josh Harvey Crisologo.
 
 ### 💻 &nbsp;About Me 
 
