@@ -116,47 +116,35 @@ An interactive Java application combining strategic word-puzzle combat with RPG 
 
 <div align="center">
 
-  <h3>Frameworks & Technologies</h3>
-     <p>   
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="25">&nbsp;&nbsp; 
-        <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" height="25">&nbsp;&nbsp;
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25">&nbsp;&nbsp; 
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="25">&nbsp;&nbsp; 
-        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" height="25"> </p>
+### Languages
 
-   <h3>Database & Cloud</h3> 
-      <p>
-         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25">&nbsp;&nbsp;
-         <img src="https://img.shields.io/badge/H2_Database-003B57?style=for-the-badge&logo=h2&logoColor=white" height="25">&nbsp;&nbsp; 
-         <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="25">&nbsp;&nbsp; 
-         <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="25"> </p>
-         <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="25">
+<img src="https://skillicons.dev/icons?i=java,cs,ts,js" />
 
-<h3>Tools & DevOps</h3> 
-      <p> 
-         <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" height="25">&nbsp;&nbsp; 
-         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">&nbsp;&nbsp; 
-         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25">&nbsp;&nbsp; 
-         <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" height="25"> </p>
+### Frontend
 
-<h3>Languages & IDEs</h3> 
-      <p> 
-         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="25">&nbsp;&nbsp; 
-         <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" height="25">&nbsp;&nbsp; 
-         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25">&nbsp;&nbsp; 
-         <img src="https://img.shields.io/badge/Spring_Tool_Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="25"> </p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,vite" />
 
-  <br>
+### Backend & Frameworks
 
-  <h3>IDEs</h3>
-      <p>
-          <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25">&nbsp;&nbsp;
-          <img src="https://img.shields.io/badge/Spring_Tool_Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="25">
-  </p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+
+### Database & Cloud
+
+<img src="https://skillicons.dev/icons?i=mysql,supabase,docker" />
+
+### AI & Automation
+
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white">
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google-gemini&logoColor=white">
+<img src="https://img.shields.io/badge/Mistral_AI-FF7000?style=flat-square&logo=mistral-ai&logoColor=white">
+<img src="https://img.shields.io/badge/n8n-FF6D5B?style=flat-square&logo=n8n&logoColor=white">
+
+### Tools & Development
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,maven" />
 
 </div>
-
-<br>
 
 ---
 
