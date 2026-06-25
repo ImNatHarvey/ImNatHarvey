@@ -89,7 +89,7 @@ A comprehensive web application designed to streamline business operations for a
 
 ---
 
-### 🎮 [Battle Hangpies: Integrated Gaming & Marketplace](https://github.com/ImNatHarvey/MK-Toasted-Siopao)
+### 🎮 [Battle Hangpies: Integrated Gaming & Marketplace](https://github.com/ImNatHarvey/Battle-Hangpies)
 
 > *A retro-inspired RPG battle engine with a modular marketplace system.*
 
