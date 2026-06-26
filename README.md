@@ -9,7 +9,7 @@
 
 - 🎓 BS Information Technology Student
 - 🤖 Building AI-powered applications, automation workflows, and business management systems
-- 🚀 Interested in Full-Stack Development, Artificial Intelligence, System Architecture, and Automation
+- 🚀 Interested in Full-Stack Development, Artificial Intelligence, and Automation
 
 ---
 
