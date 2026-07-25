@@ -1,6 +1,7 @@
-### Hi there! 👋
-
-## I'm Josh Harvey Crisologo.
+<div align="center">
+  <!-- Dynamic Compact Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Harvey!;Full-Stack+Developer;AI+Automation;Virtual+Assistant" alt="Typing SVG" />
+</div><br/>
 
   <a href="https://www.linkedin.com/in/imharveycrisologo/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
