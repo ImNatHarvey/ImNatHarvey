@@ -16,6 +16,27 @@
 
 ## 📂 Featured Projects
 
+### 🏛️ [eBilihan - eGov-Integrated Marketplace & POS System](https://github.com/ImNatHarvey/eBilihan)
+
+> *A full-stack application natively integrating Philippine government APIs.* 
+
+Secured a spot as a Top 30 Finalist out of 150+ teams across the Philippines in the eGovPH Hackathon 2026. eBilihan is a comprehensive e-commerce and Point-of-Sale (POS) platform featuring a digital wallet, loan verification flow, and product inventory management.
+
+* **Tech Stack:** React, TypeScript, Node.js, eGovPH APIs.
+* **Key Features:**
+  * 🔐 **eGov Integrations:** Implemented official APIs including NationalID eVerify, Face Liveness, eGov SSO, eGovPAY, and eMessage.
+  * 💸 **Wallet & Transactions:** Features a digital wallet system, loan verification flow, and secure checkout processing.
+  * 📦 **POS Operations:** Includes barcode scanning, product management, and automated PDF receipt generation via a robust Node.js backend.
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="20">&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="20">&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="20">&nbsp;
+  <img src="https://img.shields.io/badge/API_Integration-FF6D5B?style=for-the-badge" height="20">
+</p>
+
+---
+
 ### 🎓 [Study Aura](https://github.com/ImNatHarvey/Study-Aura)
 
 > *An AI-powered learning ecosystem that transforms any source into personalized educational experiences.*
@@ -84,26 +105,9 @@ A comprehensive web application designed to streamline business operations for a
 
 ---
 
-### 🎮 [Battle Hangpies: Integrated Gaming & Marketplace](https://github.com/ImNatHarvey/Battle-Hangpies)
+## 🗃️ Other Projects
 
-> *A retro-inspired RPG battle engine with a modular marketplace system.*
-
-An interactive Java application combining strategic word-puzzle combat with RPG progression mechanics and a simulated economy. Players collect Hangpies, engage in tactical battles, and manage resources through an integrated marketplace.
-
-* **Tech Stack:** Java, AWT/Swing, OOP Design Patterns, File-Based Persistence.
-* **Key Features:**
-
-  * ⚔️ **Battle Arena:** Custom animations, sprite systems, and combat mechanics.
-  * 🧩 **Word-Puzzle Combat:** Hangman-inspired battle system with strategic gameplay.
-  * 💎 **Progression System:** EXP scaling, stat growth, and world-level progression.
-  * 🏪 **Marketplace Module:** Buy, sell, and manage inventory using in-game currency.
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="20">&nbsp;
-  <img src="https://img.shields.io/badge/Swing-blue?style=for-the-badge" height="20">&nbsp;
-  <img src="https://img.shields.io/badge/OOP-Architecture-red?style=for-the-badge" height="20">&nbsp;
-  <img src="https://img.shields.io/badge/Game_Design-purple?style=for-the-badge" height="20">
-</p>
+* **[Battle Hangpies](https://github.com/ImNatHarvey/Battle-Hangpies):** A Java AWT word-battle game utilizing Object-Oriented Programming (OOP), stage progression, enemy encounters, and animated sprite states.
 
 ---
 
